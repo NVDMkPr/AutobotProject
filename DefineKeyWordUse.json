@@ -1,7 +1,15 @@
 {
-  "Library": {
-    "Testcase1":0
+  "Login": {
+    "API_ID": 1324372,
+    "API_Hash": "9f02ddf1f9be32bb78ebc2b20c34f212"
   },
-  "Message":"OK",
-  "TelegramError":"Bye"
+  "Library": {
+    
+  },
+  "Message": {
+    
+  },
+  "TelegramError": {
+    
+  }
 }
