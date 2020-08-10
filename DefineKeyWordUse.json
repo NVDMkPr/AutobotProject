@@ -1,5 +1,5 @@
 {
-  "Library":{},
-  "Message":{},
-  "TelegramError":{}
+  "Library":"OK",
+  "Message":"OK",
+  "TelegramError":"Bye"
 }
