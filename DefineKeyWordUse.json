@@ -1,5 +1,7 @@
 {
-  "Library":"OK",
+  "Library": {
+    "Testcase1":0
+  },
   "Message":"OK",
   "TelegramError":"Bye"
 }
