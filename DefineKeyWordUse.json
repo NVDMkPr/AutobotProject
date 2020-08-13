@@ -4,9 +4,9 @@
   "Library": {
     
   },
-  "Message": {
-    
-  },
+  "NoVisitAds": "Alerts for new click tasks are",
+  "NoBotAds": "Alerts for new bot tasks are",
+  "NoChatAds": "Alerts for new chats tasks are",
   "TelegramError": {
     
   }
